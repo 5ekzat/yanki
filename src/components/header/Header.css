@@ -1,0 +1,27 @@
+
+   
+
+.mainTitle{
+    font-size: 40px;
+    color: white;
+}
+nav{
+    display: grid;
+    grid-template-columns: 1fr 1fr 0.5fr;
+    padding-top: 1%;
+    gap: 10%;    
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+nav ul li {
+    list-style: none;
+} 
+.navLink{
+    color: white;
+    text-decoration: none;
+}

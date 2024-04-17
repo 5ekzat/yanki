@@ -1,0 +1,14 @@
+.hero{
+    background-image: url("../../img/fon.png");
+    height: 80vh;
+    width: 100vw;
+    background-size: cover;
+    color: white;
+}
+.HeroBlock{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
